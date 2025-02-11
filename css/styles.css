@@ -838,7 +838,7 @@ nav-link current {
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.submit-btn:hover,
-.submit-btn:focus {
+.btn-send-form:hover,
+.btn-send-form:focus {
   background-color: #404bbf;
 }
